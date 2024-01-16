@@ -1,0 +1,30 @@
+REM - Comentarios
+
+ECHO - Mostrar mensaje en pantalla
+
+@ECHO OFF - Para no mostrar la ejecución de comandos
+
+PAUSE - Detener temporalmente hasta que el usuario pulse una tecla
+
+SET /P VAR = - Almacena en la variable VAR lo que el usuario teclee
+SET /A VAR = 1 - Para expresiones numéricas
+
+IF "%variable%"=="hola" ( echo hola) - Se ejecuta el echo si la variable es igual a la cadena "hola"
+    IF EXIST
+    IF NOT EXIST
+    IF ERRORLEVEL 0 echo realizado - Muestra el mensaje "realizado" si no hubo ningún error
+    EQU - Igual
+    NEQ - Distinto
+    LSS - Menor que
+    LEQ - Menor o igual que
+    GTR - Mayor que
+    GEQ - Mayor o igual que
+
+GOTO :A - Lo lleva a la etiqueta A 
+GOTO :EOF - Lo lleva al final del script
+
+CHOICE /M MENU /c:SN /N - Muestra "MENU" por pantalla y muestra las opciones 
+
+FOR
+
+CALL
