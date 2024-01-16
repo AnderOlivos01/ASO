@@ -1,0 +1,32 @@
+Copia uno o m s archivos en otra ubicaci¢n.
+
+COPY [/D] [/V] [/N] [/Y | /-Y] [/Z] [/L] [/A | /B ] origen [/A | /B]
+     [+ origen [/A | /B] [+ ...]] [destino [/A | /B]]
+
+  origen       Especifica el archivo o archivos que deben copiarse.
+  /A           Indica un archivo de texto ASCII.
+  /B           Indica un archivo binario.
+  /D           Permite que el archivo de destino se cree sin cifrar.
+  destino      Especifica el directorio y/o el nombre de archivo de los
+               nuevos archivos.
+  /V           Comprueba si los nuevos archivos est n escritos
+               correctamente.
+  /N           Si est  disponible, usa un nombre de archivo corto al copiar
+               un archivo cuyo nombre no tiene el formato 8.3.
+  /Y           Suprime la solicitud de confirmaci¢n antes de
+               sobrescribir un archivo de destino existente.
+  /-Y          Solicita confirmaci¢n antes de sobrescribir un archivo de
+               destino existente.
+  /Z           Copia archivos de red en modo reiniciable.
+  /L           Si el origen es un v¡nculo simb¢lico, copia el v¡nculo al
+               destino en lugar del archivo real al que apunta el v¡nculo.
+
+El modificador /Y puede preestablecerse en la variable de entorno COPYCMD.
+Esto puede anularse con el modificador /-Y en la l¡nea de comando.
+La confirmaci¢n del usuario se solicita de forma predeterminada antes de
+sobrescribir algo, excepto si el comando COPY se ejecuta desde un script por
+lotes.
+
+Para anexar archivos, especifique un £nico archivo de destino pero
+varios archivos de origen (con caracteres comodines o el formato
+archivo1+archivo2+archivo3).

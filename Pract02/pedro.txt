@@ -1,0 +1,9 @@
+
+---------- PERSONAL.TXT
+Pedro Ruiz G¢mez	23
+
+---------- PRUEBA.TXT
+Pedro
+
+---------- RUIZ.TXT
+Pedro Ruiz G¢mez	23
