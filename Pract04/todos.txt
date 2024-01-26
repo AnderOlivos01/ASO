@@ -1,0 +1,36 @@
+C:\OracleXE\dbhomeXE\bin\orclcontainer.bmp
+C:\OracleXE\dbhomeXE\bin\orclcontext.bmp
+C:\OracleXE\dbhomeXE\bin\orcldbserver.bmp
+C:\OracleXE\dbhomeXE\bin\orclnetservice.bmp
+C:\Program Files\Windows Media Player\Network Sharing\wmpnss_color32.bmp
+C:\Program Files\Windows Media Player\Network Sharing\wmpnss_color48.bmp
+C:\ProgramData\Microsoft\User Account Pictures\guest.bmp
+C:\ProgramData\Microsoft\User Account Pictures\user.bmp
+C:\ProgramData\Wondershare Filmora\Default Effects\CommonResource\TrFrom.bmp
+C:\ProgramData\Wondershare Filmora\Default Effects\CommonResource\TrTo.bmp
+C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage\3_Bright_Lights\Data\FuncMap_FreshExposure.bmp
+C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage\3_Bright_Lights\Data\TuneMap_Freshness.bmp
+C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage\3_Metropolis\Data\TuneMap_DanGui.bmp
+C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage\3_September\Data\TuneMap_HongTian.bmp
+C:\ProgramData\Wondershare Filmora\Default Effects\DefaultPackage\3_Vivid\Data\TuneMap_CongDe.bmp
+C:\Users\All Users\Microsoft\User Account Pictures\guest.bmp
+C:\Users\All Users\Microsoft\User Account Pictures\user.bmp
+C:\Users\All Users\Wondershare Filmora\Default Effects\CommonResource\TrFrom.bmp
+C:\Users\All Users\Wondershare Filmora\Default Effects\CommonResource\TrTo.bmp
+C:\Users\All Users\Wondershare Filmora\Default Effects\DefaultPackage\3_Bright_Lights\Data\FuncMap_FreshExposure.bmp
+C:\Users\All Users\Wondershare Filmora\Default Effects\DefaultPackage\3_Bright_Lights\Data\TuneMap_Freshness.bmp
+C:\Users\All Users\Wondershare Filmora\Default Effects\DefaultPackage\3_Metropolis\Data\TuneMap_DanGui.bmp
+C:\Users\All Users\Wondershare Filmora\Default Effects\DefaultPackage\3_September\Data\TuneMap_HongTian.bmp
+C:\Users\All Users\Wondershare Filmora\Default Effects\DefaultPackage\3_Vivid\Data\TuneMap_CongDe.bmp
+C:\Users\Usuario\.vscode\extensions\ziyasal.vscode-open-in-github-1.3.6\images\icon_16.bmp
+C:\Users\Usuario\AppData\Local\Arduino15\libraries\TFT\examples\Arduino\TFTBitmapLogo\arduino.bmp
+C:\Users\Usuario\AppData\Local\Arduino15\libraries\TFT\examples\Esplora\EsploraTFTBitmapLogo\arduino.bmp
+C:\Users\Usuario\AppData\Local\Programs\Python\Python311\Lib\test\imghdrdata\python.bmp
+C:\Users\Usuario\AppData\Local\Programs\Python\Python311\Lib\test\test_email\data\python.bmp
+C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\test\imghdrdata\python.bmp
+C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\test\test_email\data\python.bmp
+C:\Users\Usuario\AppData\Local\Temp\usuario.bmp
+C:\Windows\WinSxS\amd64_microsoft-windows-usertiles-client_31bf3856ad364e35_10.0.22621.1_none_8b2baf180cac9a3f\guest.bmp
+C:\Windows\WinSxS\amd64_microsoft-windows-usertiles-client_31bf3856ad364e35_10.0.22621.1_none_8b2baf180cac9a3f\user.bmp
+C:\Windows\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.22621.2506_none_e361316a4a33296f\wmpnss_color32.bmp
+C:\Windows\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.22621.2506_none_e361316a4a33296f\wmpnss_color48.bmp
